@@ -25,3 +25,4 @@ else:
 
 
 ## Result
+Thus the python program to check whether the given number is even or odd using if...else statement is created successfully
